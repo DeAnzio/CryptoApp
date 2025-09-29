@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Byte-code files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Log and temporary files
+*.log
+*.tmp
+*.bak
+
+# Other common ignored files
+.pytest_cache/
+.coverage
+htmlcov/
